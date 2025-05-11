@@ -1,0 +1,11 @@
+Running Ping Scan...
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-11 03:23 EDT
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.01 seconds
+
+Running Port Scan...
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-11 03:23 EDT
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.05 seconds
+
+Running OS Detection and Service Version Scan...
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-11 03:23 EDT
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.71 seconds
